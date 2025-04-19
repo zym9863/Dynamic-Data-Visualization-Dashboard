@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <symbol id="icon-trend" viewBox="0 0 24 24">
+    <polyline points="3 17 9 11 13 15 21 7" fill="none" stroke="#67C23A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="3" cy="17" r="1.5" fill="#67C23A"/>
+    <circle cx="9" cy="11" r="1.5" fill="#67C23A"/>
+    <circle cx="13" cy="15" r="1.5" fill="#67C23A"/>
+    <circle cx="21" cy="7" r="1.5" fill="#67C23A"/>
+  </symbol>
+  <symbol id="icon-pie" viewBox="0 0 24 24">
+    <path d="M12 2v10l8.66 5A10 10 0 1 1 12 2z" fill="#409EFF"/>
+    <path d="M12 2a10 10 0 0 1 8.66 15l-8.66-5V2z" fill="#67C23A"/>
+  </symbol>
+  <symbol id="icon-gauge" viewBox="0 0 24 24">
+    <circle cx="12" cy="12" r="10" fill="none" stroke="#F56C6C" stroke-width="2"/>
+    <path d="M12 12L19 7" stroke="#F56C6C" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="12" cy="12" r="2" fill="#F56C6C"/>
+  </symbol>
+  <symbol id="icon-refresh" viewBox="0 0 24 24">
+    <path d="M4 4v6h6" fill="none" stroke="#409EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20 20v-6h-6" fill="none" stroke="#409EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M9 20a8 8 0 1 1 6-16" fill="none" stroke="#409EFF" stroke-width="2" stroke-linecap="round"/>
+  </symbol>
+</svg>
